@@ -675,6 +675,6 @@ router.post('/upload', upload.single('file'), (req, res) => {
 
 **License**: ISC
 
-**Author**: [Your Name]
+**Author**: Sem Sopheak
 
 **Version**: 1.0.0
